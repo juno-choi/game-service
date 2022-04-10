@@ -29,7 +29,7 @@ public class TestController {
         return ResponseEntity.ok(api);
     }
 
-    //test용 객체
+    //test용 객체222
     @Data
     public class TestObject{
         private Integer idx = 1;
